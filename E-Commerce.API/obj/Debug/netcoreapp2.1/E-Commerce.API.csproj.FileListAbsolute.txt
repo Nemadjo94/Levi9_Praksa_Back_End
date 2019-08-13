@@ -1,0 +1,14 @@
+C:\Users\ne.djordjevic\source\repos\E-Commerce\E-Commerce.API\bin\Debug\netcoreapp2.1\E-Commerce.API.deps.json
+C:\Users\ne.djordjevic\source\repos\E-Commerce\E-Commerce.API\bin\Debug\netcoreapp2.1\E-Commerce.API.runtimeconfig.json
+C:\Users\ne.djordjevic\source\repos\E-Commerce\E-Commerce.API\bin\Debug\netcoreapp2.1\E-Commerce.API.runtimeconfig.dev.json
+C:\Users\ne.djordjevic\source\repos\E-Commerce\E-Commerce.API\bin\Debug\netcoreapp2.1\E-Commerce.API.dll
+C:\Users\ne.djordjevic\source\repos\E-Commerce\E-Commerce.API\bin\Debug\netcoreapp2.1\E-Commerce.API.pdb
+C:\Users\ne.djordjevic\source\repos\E-Commerce\E-Commerce.API\obj\Debug\netcoreapp2.1\E-Commerce.API.csprojAssemblyReference.cache
+C:\Users\ne.djordjevic\source\repos\E-Commerce\E-Commerce.API\obj\Debug\netcoreapp2.1\E-Commerce.API.csproj.CoreCompileInputs.cache
+C:\Users\ne.djordjevic\source\repos\E-Commerce\E-Commerce.API\obj\Debug\netcoreapp2.1\E-Commerce.API.RazorAssemblyInfo.cache
+C:\Users\ne.djordjevic\source\repos\E-Commerce\E-Commerce.API\obj\Debug\netcoreapp2.1\E-Commerce.API.RazorAssemblyInfo.cs
+C:\Users\ne.djordjevic\source\repos\E-Commerce\E-Commerce.API\obj\Debug\netcoreapp2.1\E-Commerce.API.AssemblyInfoInputs.cache
+C:\Users\ne.djordjevic\source\repos\E-Commerce\E-Commerce.API\obj\Debug\netcoreapp2.1\E-Commerce.API.AssemblyInfo.cs
+C:\Users\ne.djordjevic\source\repos\E-Commerce\E-Commerce.API\obj\Debug\netcoreapp2.1\E-Commerce.API.RazorTargetAssemblyInfo.cache
+C:\Users\ne.djordjevic\source\repos\E-Commerce\E-Commerce.API\obj\Debug\netcoreapp2.1\E-Commerce.API.dll
+C:\Users\ne.djordjevic\source\repos\E-Commerce\E-Commerce.API\obj\Debug\netcoreapp2.1\E-Commerce.API.pdb
