@@ -11,7 +11,7 @@ namespace E_Commerce.Domain.Entities
             OrderDetails = new HashSet<OrderDetail>();
         }
 
-        public int OrderId { get; set; }
+        public Guid OrderId { get; set; }
         public string CustomerId { get; set; }
         public DateTime? OrderDate { get; set; }
         public DateTime? RequiredDate { get; set; }

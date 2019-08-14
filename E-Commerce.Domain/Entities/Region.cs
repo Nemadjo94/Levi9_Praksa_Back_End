@@ -11,7 +11,7 @@ namespace E_Commerce.Domain.Entities
             Territories = new HashSet<Territory>();
         }
 
-        public int RegionId { get; set; }
+        public Guid RegionId { get; set; }
         public string RegionDescription { get; set; }
 
         public ICollection<Territory> Territories { get; private set; }

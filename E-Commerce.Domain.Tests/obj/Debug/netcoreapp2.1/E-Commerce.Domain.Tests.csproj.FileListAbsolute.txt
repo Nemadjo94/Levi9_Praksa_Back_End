@@ -1,0 +1,17 @@
+C:\Users\ne.djordjevic\source\repos\E-Commerce\E-Commerce.Domain.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\ne.djordjevic\source\repos\E-Commerce\E-Commerce.Domain.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\ne.djordjevic\source\repos\E-Commerce\E-Commerce.Domain.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\ne.djordjevic\source\repos\E-Commerce\E-Commerce.Domain.Tests\bin\Debug\netcoreapp2.1\E-Commerce.Domain.Tests.deps.json
+C:\Users\ne.djordjevic\source\repos\E-Commerce\E-Commerce.Domain.Tests\bin\Debug\netcoreapp2.1\E-Commerce.Domain.Tests.runtimeconfig.json
+C:\Users\ne.djordjevic\source\repos\E-Commerce\E-Commerce.Domain.Tests\bin\Debug\netcoreapp2.1\E-Commerce.Domain.Tests.runtimeconfig.dev.json
+C:\Users\ne.djordjevic\source\repos\E-Commerce\E-Commerce.Domain.Tests\bin\Debug\netcoreapp2.1\E-Commerce.Domain.Tests.dll
+C:\Users\ne.djordjevic\source\repos\E-Commerce\E-Commerce.Domain.Tests\bin\Debug\netcoreapp2.1\E-Commerce.Domain.Tests.pdb
+C:\Users\ne.djordjevic\source\repos\E-Commerce\E-Commerce.Domain.Tests\obj\Debug\netcoreapp2.1\E-Commerce.Domain.Tests.csprojAssemblyReference.cache
+C:\Users\ne.djordjevic\source\repos\E-Commerce\E-Commerce.Domain.Tests\obj\Debug\netcoreapp2.1\E-Commerce.Domain.Tests.csproj.CoreCompileInputs.cache
+C:\Users\ne.djordjevic\source\repos\E-Commerce\E-Commerce.Domain.Tests\obj\Debug\netcoreapp2.1\E-Commerce.Domain.Tests.AssemblyInfoInputs.cache
+C:\Users\ne.djordjevic\source\repos\E-Commerce\E-Commerce.Domain.Tests\obj\Debug\netcoreapp2.1\E-Commerce.Domain.Tests.AssemblyInfo.cs
+C:\Users\ne.djordjevic\source\repos\E-Commerce\E-Commerce.Domain.Tests\obj\Debug\netcoreapp2.1\E-Commerce.Domain.Tests.dll
+C:\Users\ne.djordjevic\source\repos\E-Commerce\E-Commerce.Domain.Tests\obj\Debug\netcoreapp2.1\E-Commerce.Domain.Tests.pdb
+C:\Users\ne.djordjevic\source\repos\E-Commerce\E-Commerce.Domain.Tests\bin\Debug\netcoreapp2.1\E-Commerce.Domain.dll
+C:\Users\ne.djordjevic\source\repos\E-Commerce\E-Commerce.Domain.Tests\bin\Debug\netcoreapp2.1\E-Commerce.Domain.pdb
+C:\Users\ne.djordjevic\source\repos\E-Commerce\E-Commerce.Domain.Tests\obj\Debug\netcoreapp2.1\E-Commerce.Domain.Tests.csproj.CopyComplete

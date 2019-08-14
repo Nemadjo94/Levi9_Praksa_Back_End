@@ -1,0 +1,9 @@
+C:\Users\ne.djordjevic\source\repos\E-Commerce\E-Commerce.Domain\obj\Debug\netcoreapp2.1\E-Commerce.Domain.csprojAssemblyReference.cache
+C:\Users\ne.djordjevic\source\repos\E-Commerce\E-Commerce.Domain\obj\Debug\netcoreapp2.1\E-Commerce.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ne.djordjevic\source\repos\E-Commerce\E-Commerce.Domain\obj\Debug\netcoreapp2.1\E-Commerce.Domain.AssemblyInfoInputs.cache
+C:\Users\ne.djordjevic\source\repos\E-Commerce\E-Commerce.Domain\obj\Debug\netcoreapp2.1\E-Commerce.Domain.AssemblyInfo.cs
+C:\Users\ne.djordjevic\source\repos\E-Commerce\E-Commerce.Domain\bin\Debug\netcoreapp2.1\E-Commerce.Domain.deps.json
+C:\Users\ne.djordjevic\source\repos\E-Commerce\E-Commerce.Domain\bin\Debug\netcoreapp2.1\E-Commerce.Domain.dll
+C:\Users\ne.djordjevic\source\repos\E-Commerce\E-Commerce.Domain\bin\Debug\netcoreapp2.1\E-Commerce.Domain.pdb
+C:\Users\ne.djordjevic\source\repos\E-Commerce\E-Commerce.Domain\obj\Debug\netcoreapp2.1\E-Commerce.Domain.dll
+C:\Users\ne.djordjevic\source\repos\E-Commerce\E-Commerce.Domain\obj\Debug\netcoreapp2.1\E-Commerce.Domain.pdb

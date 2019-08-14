@@ -11,7 +11,7 @@ namespace E_Commerce.Domain.Entities
             Products = new HashSet<Product>();
         }
 
-        public int SupplierId { get; set; }
+        public Guid SupplierId { get; set; }
         public string CompanyName { get; set; }
         public string ContactName { get; set; }
         public string ContactTitle { get; set; }

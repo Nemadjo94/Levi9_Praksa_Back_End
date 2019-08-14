@@ -11,7 +11,7 @@ namespace E_Commerce.Domain.Entities
             Orders = new HashSet<Order>();
         }
 
-        public int ShipperId { get; set; }
+        public Guid ShipperId { get; set; }
         public string CompanyName { get; set; }
         public string Phone { get; set; }
 
